@@ -40,7 +40,7 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaadchouhan" alt="ayaadchouhan" /></a> </p>
+
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaadchouhan&" alt="ayaadchouhan" /></p>
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=ayaadchouhan&show_icons=true&locale=en" alt="ayaadchouhan" /></p> <br/>
 
