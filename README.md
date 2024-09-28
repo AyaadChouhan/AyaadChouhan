@@ -37,6 +37,8 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/Node.js-%23404d59.svg?style=for-the-badge&logo=node&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/Nest.js-%23404d59.svg?style=for-the-badge&logo=nest&logoColor=white">
 </p>
 
 
