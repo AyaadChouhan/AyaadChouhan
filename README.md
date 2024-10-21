@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **React.js and Nest.js**
+- 🌱 I’m currently learning **Docker and Redux**
 
 - 💬 Ask me about **JavaScript, TypeScript, React.js**
 
