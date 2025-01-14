@@ -9,13 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend**
+- 🌱 I’m currently working on **DevOPS**
 
-- 🌱 I’m currently learning **Docker and Redux**
-
-- 💬 Ask me about **JavaScript, TypeScript, React.js**
-
-- 📫 How to reach me **ayaadchouhan@gmail.coom**
+- 📫 How to reach me **ayaadchouhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,12 +29,13 @@
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-%23404d59.svg?style=for-the-badge&logo=node&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/Nest.js-%23404d59.svg?style=for-the-badge&logo=nest&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/Node.js-%23404d59.svg?style=for-the-badge&logo=node&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/Nest.js-%23404d59.svg?style=for-the-badge&logo=nest&logoColor=white">
 </p>
 
 
